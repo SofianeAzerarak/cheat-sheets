@@ -8,15 +8,12 @@ Cet aide-mémoire permet un accès rapide aux instructions des commandes Git les
 ## Configurer les informations de l'utilisateur pour tous les dépôts locaux
 
 >$ git config --global user.name "[nom]"
-
-Définit le nom que vous voulez associer à toutes vos opérations de
+-- Définit le nom que vous voulez associer à toutes vos opérations de
 commit 
-___
+
 >$ git config --global user.email "[adresse email]"
+-- Définit l'email que vous voulez associer à toutes vos opérations de commit
 
-Définit l'email que vous voulez associer à toutes vos opérations de commit
-___
 >$ git config --global color.ui auto
-
-Active la colorisation de la sortie en ligne de commande
+-- Active la colorisation de la sortie en ligne de commande
 ___
