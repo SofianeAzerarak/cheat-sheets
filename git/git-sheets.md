@@ -17,3 +17,14 @@ commit
 >$ git config --global color.ui auto
 -- Active la colorisation de la sortie en ligne de commande
 ___
+
+# CRÉER DES DÉPÔTS
+
+## Démarrer un nouveau dépôt ou en obtenir un depuis une URL existante
+
+>$ git init [nom-du-projet]
+-- Crée un dépôt local à partir du nom spécifié
+
+>$ git clone [url]
+-- Télécharge un projet et tout son historique de versions
+___
